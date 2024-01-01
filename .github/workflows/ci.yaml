@@ -38,7 +38,7 @@ jobs:
       - run: npm run build
       - id: semver
         uses: ildug/get-tag-action@v1
-      - run: npm version ${{ steps.semver.outputs.version }}
+      - run: npm version --git-tag-version=false ${{ steps.semver.outputs.version }} 
       - uses: JS-DevTools/npm-publish@v3
         with:
             token: ${{ secrets.GITHUB_TOKEN }}
