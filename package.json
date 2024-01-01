@@ -1,7 +1,8 @@
 {
   "name": "@polyfea/browser-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Polyfea API for browser clients",
+  "homepage": "https://github.com/polyfea/browser-api/blob/main/README.md",
   "main": "index.js",
   "scripts": {
     "clean": "npx del-cli lib docs coverage src/generated",
@@ -24,7 +25,6 @@
   "bugs": {
     "url": "https://github.com/polyfea/browser-api/issues"
   },
-  "homepage": "https://github.com/polyfea/browser-api#readme",
   "devDependencies": {
     "@openapitools/openapi-generator-cli": "^2.5.2",
     "@vitest/coverage-v8": "^1.1.1",
