@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 21
       - run: npm ci
-      - run: npm build 
+      - run: npm run build 
       - run: npm test
   publish_package:
     if: github.event_name == 'release'
@@ -35,7 +35,7 @@ jobs:
           node-version: 21
           registry-url: https://npm.pkg.github.com/
       - run: npm ci
-      - run: npm build
+      - run: npm run build
       - id: semver
         uses: ildug/get-tag-action@v1
       - uses: JS-DevTools/npm-publish@v3
