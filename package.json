@@ -1,0 +1,39 @@
+{
+  "name": "@polyfea/browser-api",
+  "version": "1.0.0",
+  "description": "Polyfea API for browser clients",
+  "main": "index.js",
+  "scripts": {
+    "clean": "npx del-cli lib docs coverage src/generated",
+    "generate": "openapi-generator-cli generate",
+    "compile": "tsc",
+    "typedoc": "npx typedoc --plugin typedoc-plugin-markdown",
+    "build": "run-s clean generate compile typedoc",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyfea/browser-api.git"
+  },
+  "keywords": [
+    "polyfea"
+  ],
+  "author": "Milan Unger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/polyfea/browser-api/issues"
+  },
+  "homepage": "https://github.com/polyfea/browser-api#readme",
+  "devDependencies": {
+    "@openapitools/openapi-generator-cli": "^2.5.2",
+    "@vitest/coverage-v8": "^1.1.1",
+    "@vitest/ui": "^1.1.1",
+    "del-cli": "^5.1.0",
+    "fetch-mock": "^9.11.0",
+    "npm-run-all": "^4.1.5",
+    "typedoc": "^0.25.4",
+    "typedoc-plugin-markdown": "^3.17.1",
+    "vitest": "^1.1.1"
+  }
+}

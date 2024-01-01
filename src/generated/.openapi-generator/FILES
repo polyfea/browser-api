@@ -1,0 +1,12 @@
+.openapi-generator-ignore
+apis/PolyfeaApi.ts
+apis/index.ts
+index.ts
+models/ContextArea.ts
+models/ElementSpec.ts
+models/MicrofrontendResource.ts
+models/MicrofrontendSpec.ts
+models/StaticConfig.ts
+models/StaticConfigArea.ts
+models/index.ts
+runtime.ts
