@@ -21,8 +21,7 @@ jobs:
       - run: npm ci
       - run: npm build 
       - run: npm test
-
-  publish:
+  publish_package:
     if: github.event_name == 'release'
     needs: build
     runs-on: ubuntu-latest
@@ -45,9 +44,9 @@ jobs:
             registry: "https://npm.pkg.github.com"
             tag: ${{ steps.semver.outputs.version }}
             access: "public"
-    - uses: JS-DevTools/npm-publish@v3
-      with:
-        token: ${{ secrets.NPM_PUBLISH_TOKEN }}
-        tag: ${{ steps.semver.outputs.version }}
-        access: "public"
+      - uses: JS-DevTools/npm-publish@v3
+        with:
+            token: ${{ secrets.NPM_PUBLISH_TOKEN }}
+            tag: ${{ steps.semver.outputs.version }}
+            access: "public"
      
