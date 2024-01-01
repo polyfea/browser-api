@@ -1,6 +1,6 @@
 {
   "name": "@polyfea/browser-api",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Polyfea API for browser clients",
   "homepage": "https://github.com/polyfea/browser-api/blob/main/README.md",
   "main": "index.js",

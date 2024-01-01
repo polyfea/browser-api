@@ -38,15 +38,14 @@ jobs:
       - run: npm run build
       - id: semver
         uses: ildug/get-tag-action@v1
+      - run: npm version ${{ steps.semver.outputs.version }}
       - uses: JS-DevTools/npm-publish@v3
         with:
             token: ${{ secrets.GITHUB_TOKEN }}
             registry: "https://npm.pkg.github.com"
-            tag: ${{ steps.semver.outputs.version }}
             access: "public"
       - uses: JS-DevTools/npm-publish@v3
         with:
             token: ${{ secrets.NPM_PUBLISH_TOKEN }}
-            tag: ${{ steps.semver.outputs.version }}
             access: "public"
      
