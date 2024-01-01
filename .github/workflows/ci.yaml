@@ -2,7 +2,7 @@
 
 name: Build and Publish Package
 
-on:
+on: 
     push:
         branches: [ "main"]
     pull_request:
