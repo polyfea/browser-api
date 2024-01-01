@@ -4,7 +4,7 @@ name: Build and Publish Package
 
 on:
     push:
-        branches: [ "main", "milan/cicd-fix" ]
+        branches: [ "main"]
     pull_request:
         branches: [ "main" ]
     release:
