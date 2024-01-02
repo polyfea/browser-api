@@ -3,7 +3,11 @@
   "version": "0.0.0",
   "description": "Polyfea API for browser clients",
   "homepage": "https://github.com/polyfea/browser-api/blob/main/README.md",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "clean": "npx del-cli lib docs coverage src/generated",
     "generate": "openapi-generator-cli generate",
