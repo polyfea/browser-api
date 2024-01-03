@@ -32,7 +32,7 @@ StaticConfig
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:45
+[src/generated/models/StaticConfig.ts:45](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L45)
 
 ___
 
@@ -52,4 +52,4 @@ StaticConfig
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:52
+[src/generated/models/StaticConfig.ts:52](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L52)

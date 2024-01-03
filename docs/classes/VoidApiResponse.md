@@ -34,7 +34,7 @@
 
 #### Defined in
 
-src/generated/runtime.ts:410
+[src/generated/runtime.ts:410](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L410)
 
 ## Properties
 
@@ -44,7 +44,7 @@ src/generated/runtime.ts:410
 
 #### Defined in
 
-src/generated/runtime.ts:410
+[src/generated/runtime.ts:410](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L410)
 
 ## Methods
 
@@ -58,4 +58,4 @@ src/generated/runtime.ts:410
 
 #### Defined in
 
-src/generated/runtime.ts:412
+[src/generated/runtime.ts:412](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L412)

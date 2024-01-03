@@ -38,7 +38,7 @@ ElementSpec
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:48
+[src/generated/models/ElementSpec.ts:48](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L48)
 
 ___
 
@@ -56,7 +56,7 @@ ElementSpec
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:34
+[src/generated/models/ElementSpec.ts:34](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L34)
 
 ___
 
@@ -77,7 +77,7 @@ ElementSpec
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:56
+[src/generated/models/ElementSpec.ts:56](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L56)
 
 ___
 
@@ -93,4 +93,4 @@ ElementSpec
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:41
+[src/generated/models/ElementSpec.ts:41](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L41)

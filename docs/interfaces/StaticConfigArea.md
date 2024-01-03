@@ -28,7 +28,7 @@ StaticConfigArea
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:51
+[src/generated/models/StaticConfigArea.ts:51](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L51)
 
 ___
 
@@ -44,7 +44,7 @@ StaticConfigArea
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:36
+[src/generated/models/StaticConfigArea.ts:36](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L36)
 
 ___
 
@@ -62,4 +62,4 @@ StaticConfigArea
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:45
+[src/generated/models/StaticConfigArea.ts:45](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L45)

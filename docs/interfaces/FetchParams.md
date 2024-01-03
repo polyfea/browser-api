@@ -17,7 +17,7 @@
 
 #### Defined in
 
-src/generated/runtime.ts:302
+[src/generated/runtime.ts:302](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L302)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:301
+[src/generated/runtime.ts:301](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L301)

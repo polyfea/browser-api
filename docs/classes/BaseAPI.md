@@ -51,7 +51,7 @@ This is the base class for all generated API classes.
 
 #### Defined in
 
-src/generated/runtime.ts:97
+[src/generated/runtime.ts:97](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L97)
 
 ## Properties
 
@@ -61,7 +61,7 @@ src/generated/runtime.ts:97
 
 #### Defined in
 
-src/generated/runtime.ts:97
+[src/generated/runtime.ts:97](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L97)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:95
+[src/generated/runtime.ts:95](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L95)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:94
+[src/generated/runtime.ts:94](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L94)
 
 ## Methods
 
@@ -110,7 +110,7 @@ and then shallow cloning data members.
 
 #### Defined in
 
-src/generated/runtime.ts:244
+[src/generated/runtime.ts:244](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L244)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:143
+[src/generated/runtime.ts:143](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L143)
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:194
+[src/generated/runtime.ts:194](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L194)
 
 ___
 
@@ -181,7 +181,7 @@ True if the given MIME is JSON, false otherwise.
 
 #### Defined in
 
-src/generated/runtime.ts:127
+[src/generated/runtime.ts:127](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L127)
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:134
+[src/generated/runtime.ts:134](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L134)
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:101
+[src/generated/runtime.ts:101](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L101)
 
 ___
 
@@ -256,7 +256,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:112
+[src/generated/runtime.ts:112](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L112)
 
 ___
 
@@ -283,4 +283,4 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:107
+[src/generated/runtime.ts:107](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L107)

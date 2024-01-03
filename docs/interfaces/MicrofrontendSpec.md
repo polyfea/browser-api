@@ -34,7 +34,7 @@ MicrofrontendSpec
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:40
+[src/generated/models/MicrofrontendSpec.ts:40](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L40)
 
 ___
 
@@ -50,7 +50,7 @@ MicrofrontendSpec
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:46
+[src/generated/models/MicrofrontendSpec.ts:46](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L46)
 
 ___
 
@@ -68,4 +68,4 @@ MicrofrontendSpec
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:55
+[src/generated/models/MicrofrontendSpec.ts:55](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L55)

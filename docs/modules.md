@@ -96,7 +96,7 @@
 
 #### Defined in
 
-src/generated/runtime.ts:288
+[src/generated/runtime.ts:288](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L288)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:294
+[src/generated/runtime.ts:294](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L294)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:292
+[src/generated/runtime.ts:292](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L292)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:291
+[src/generated/runtime.ts:291](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L291)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:293
+[src/generated/runtime.ts:293](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L293)
 
 ___
 
@@ -163,7 +163,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:295
+[src/generated/runtime.ts:295](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L295)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:298
+[src/generated/runtime.ts:298](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L298)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:290
+[src/generated/runtime.ts:290](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L290)
 
 ___
 
@@ -209,9 +209,9 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:63
+[src/generated/models/MicrofrontendResource.ts:63](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L63)
 
-src/generated/models/MicrofrontendResource.ts:68
+[src/generated/models/MicrofrontendResource.ts:68](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L68)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:296
+[src/generated/runtime.ts:296](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L296)
 
 ## Variables
 
@@ -240,7 +240,7 @@ Do not edit the class manually.
 
 #### Defined in
 
-src/generated/runtime.ts:16
+[src/generated/runtime.ts:16](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L16)
 
 ___
 
@@ -259,7 +259,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:281
+[src/generated/runtime.ts:281](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L281)
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:87
+[src/generated/runtime.ts:87](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L87)
 
 ___
 
@@ -289,9 +289,9 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:63
+[src/generated/models/MicrofrontendResource.ts:63](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L63)
 
-src/generated/models/MicrofrontendResource.ts:68
+[src/generated/models/MicrofrontendResource.ts:68](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L68)
 
 ## Functions
 
@@ -311,7 +311,7 @@ src/generated/models/MicrofrontendResource.ts:68
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:65
+[src/generated/models/ContextArea.ts:65](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L65)
 
 ___
 
@@ -332,7 +332,7 @@ ___
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:69
+[src/generated/models/ContextArea.ts:69](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L69)
 
 ___
 
@@ -352,7 +352,7 @@ ___
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:80
+[src/generated/models/ContextArea.ts:80](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L80)
 
 ___
 
@@ -372,7 +372,7 @@ ___
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:69
+[src/generated/models/ElementSpec.ts:69](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L69)
 
 ___
 
@@ -393,7 +393,7 @@ ___
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:73
+[src/generated/models/ElementSpec.ts:73](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L73)
 
 ___
 
@@ -413,7 +413,7 @@ ___
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:86
+[src/generated/models/ElementSpec.ts:86](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L86)
 
 ___
 
@@ -433,7 +433,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:80
+[src/generated/models/MicrofrontendResource.ts:80](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L80)
 
 ___
 
@@ -454,7 +454,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:84
+[src/generated/models/MicrofrontendResource.ts:84](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L84)
 
 ___
 
@@ -474,7 +474,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:97
+[src/generated/models/MicrofrontendResource.ts:97](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L97)
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:67
+[src/generated/models/MicrofrontendSpec.ts:67](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L67)
 
 ___
 
@@ -515,7 +515,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:71
+[src/generated/models/MicrofrontendSpec.ts:71](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L71)
 
 ___
 
@@ -535,7 +535,7 @@ ___
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:83
+[src/generated/models/MicrofrontendSpec.ts:83](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L83)
 
 ___
 
@@ -555,7 +555,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:64
+[src/generated/models/StaticConfigArea.ts:64](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L64)
 
 ___
 
@@ -576,7 +576,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:68
+[src/generated/models/StaticConfigArea.ts:68](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L68)
 
 ___
 
@@ -596,7 +596,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:80
+[src/generated/models/StaticConfigArea.ts:80](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L80)
 
 ___
 
@@ -616,7 +616,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:65
+[src/generated/models/StaticConfig.ts:65](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L65)
 
 ___
 
@@ -637,7 +637,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:69
+[src/generated/models/StaticConfig.ts:69](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L69)
 
 ___
 
@@ -657,7 +657,7 @@ ___
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:80
+[src/generated/models/StaticConfig.ts:80](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L80)
 
 ___
 
@@ -677,7 +677,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:352
+[src/generated/runtime.ts:352](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L352)
 
 ___
 
@@ -698,7 +698,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:313
+[src/generated/runtime.ts:313](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L313)
 
 ___
 
@@ -720,7 +720,7 @@ Check if a given object implements the ContextArea interface.
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:58
+[src/generated/models/ContextArea.ts:58](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L58)
 
 ___
 
@@ -742,7 +742,7 @@ Check if a given object implements the ElementSpec interface.
 
 #### Defined in
 
-src/generated/models/ElementSpec.ts:62
+[src/generated/models/ElementSpec.ts:62](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ElementSpec.ts#L62)
 
 ___
 
@@ -764,7 +764,7 @@ Check if a given object implements the MicrofrontendResource interface.
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:74
+[src/generated/models/MicrofrontendResource.ts:74](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L74)
 
 ___
 
@@ -786,7 +786,7 @@ Check if a given object implements the MicrofrontendSpec interface.
 
 #### Defined in
 
-src/generated/models/MicrofrontendSpec.ts:61
+[src/generated/models/MicrofrontendSpec.ts:61](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendSpec.ts#L61)
 
 ___
 
@@ -808,7 +808,7 @@ Check if a given object implements the StaticConfig interface.
 
 #### Defined in
 
-src/generated/models/StaticConfig.ts:58
+[src/generated/models/StaticConfig.ts:58](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfig.ts#L58)
 
 ___
 
@@ -830,7 +830,7 @@ Check if a given object implements the StaticConfigArea interface.
 
 #### Defined in
 
-src/generated/models/StaticConfigArea.ts:57
+[src/generated/models/StaticConfigArea.ts:57](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/StaticConfigArea.ts#L57)
 
 ___
 
@@ -851,7 +851,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:345
+[src/generated/runtime.ts:345](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L345)
 
 ___
 
@@ -872,4 +872,4 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:318
+[src/generated/runtime.ts:318](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L318)

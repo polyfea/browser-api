@@ -6,7 +6,8 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
-    "lib/**/*"
+    "lib/**/*",
+    "src/openapi/**/*"
   ],
   "scripts": {
     "clean": "npx del-cli lib docs coverage src/generated",

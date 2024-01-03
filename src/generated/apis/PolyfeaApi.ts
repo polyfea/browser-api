@@ -28,6 +28,7 @@ import {
 export interface GetContextAreaRequest {
     name: string;
     path: string;
+    take?: number;
 }
 
 /**
@@ -52,6 +53,10 @@ export class PolyfeaApi extends runtime.BaseAPI {
 
         if (requestParameters.path !== undefined) {
             queryParameters['path'] = requestParameters.path;
+        }
+
+        if (requestParameters.take !== undefined) {
+            queryParameters['take'] = requestParameters.take;
         }
 
         const headerParameters: runtime.HTTPHeaders = {};

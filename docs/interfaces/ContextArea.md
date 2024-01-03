@@ -31,7 +31,7 @@ ContextArea
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:44
+[src/generated/models/ContextArea.ts:44](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L44)
 
 ___
 
@@ -52,4 +52,4 @@ ContextArea
 
 #### Defined in
 
-src/generated/models/ContextArea.ts:52
+[src/generated/models/ContextArea.ts:52](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/ContextArea.ts#L52)

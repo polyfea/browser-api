@@ -37,7 +37,7 @@ test('getContextArea api of PolyfeaApi is nonbreaking', async () => {
         }
     };
     const fetchMock = FetchMock.sandbox();
-    fetchMock.get('http://localhost:8080/polyfea/context-area/test?path=.%2Ftest', expectedContextArea);
+    fetchMock.get('http://localhost:8080/polyfea/context-area/test?path=.%2Ftest&take=1', expectedContextArea);
 
     const config = new Configuration({
         basePath: 'http://localhost:8080/polyfea',
@@ -48,7 +48,8 @@ test('getContextArea api of PolyfeaApi is nonbreaking', async () => {
     const api = new PolyfeaApi(config);
     const contextArea = await api.getContextArea({
         name: 'test',
-        path: './test'
+        path: './test',
+        take: 1,
     });
 
     // then

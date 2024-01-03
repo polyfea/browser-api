@@ -16,4 +16,4 @@
 
 #### Defined in
 
-src/generated/runtime.ts:362
+[src/generated/runtime.ts:362](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L362)

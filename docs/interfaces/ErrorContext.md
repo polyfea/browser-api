@@ -20,7 +20,7 @@
 
 #### Defined in
 
-src/generated/runtime.ts:382
+[src/generated/runtime.ts:382](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L382)
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:379
+[src/generated/runtime.ts:379](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L379)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:381
+[src/generated/runtime.ts:381](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L381)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:383
+[src/generated/runtime.ts:383](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L383)
 
 ___
 
@@ -77,4 +77,4 @@ ___
 
 #### Defined in
 
-src/generated/runtime.ts:380
+[src/generated/runtime.ts:380](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L380)

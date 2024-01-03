@@ -44,7 +44,7 @@ Error.constructor
 
 #### Defined in
 
-src/generated/runtime.ts:276
+[src/generated/runtime.ts:276](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L276)
 
 ## Properties
 
@@ -54,7 +54,7 @@ src/generated/runtime.ts:276
 
 #### Defined in
 
-src/generated/runtime.ts:276
+[src/generated/runtime.ts:276](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L276)
 
 ___
 
@@ -82,7 +82,7 @@ Error.name
 
 #### Defined in
 
-src/generated/runtime.ts:275
+[src/generated/runtime.ts:275](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/runtime.ts#L275)
 
 ___
 

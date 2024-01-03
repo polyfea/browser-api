@@ -38,7 +38,7 @@ MicrofrontendResource
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:47
+[src/generated/models/MicrofrontendResource.ts:47](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L47)
 
 ___
 
@@ -55,7 +55,7 @@ MicrofrontendResource
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:40
+[src/generated/models/MicrofrontendResource.ts:40](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L40)
 
 ___
 
@@ -71,7 +71,7 @@ MicrofrontendResource
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:32
+[src/generated/models/MicrofrontendResource.ts:32](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L32)
 
 ___
 
@@ -89,4 +89,4 @@ MicrofrontendResource
 
 #### Defined in
 
-src/generated/models/MicrofrontendResource.ts:56
+[src/generated/models/MicrofrontendResource.ts:56](https://github.com/polyfea/browser-api/blob/3f82ee7/src/generated/models/MicrofrontendResource.ts#L56)

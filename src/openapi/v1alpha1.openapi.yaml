@@ -42,6 +42,14 @@ paths:
           required: true
           schema:
             type: string
+        - name: take
+          in: query
+          description: |
+            Number of elements to be consumed by client. The elements are consumed in the order they are provided. If not specified then ň
+            all provided elements will be used.
+          required: false
+          schema:
+            type: number
       responses:
         "200":
           description: |
