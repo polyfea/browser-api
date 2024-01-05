@@ -240,7 +240,7 @@ components:
         resources:
           type: array
           items:
-            $ref: MicrofrontendResource
+            $ref: "#/components/schemas/MicrofrontendResource"
           description: |
             The resources that the browser should load. Only resources that need to be directly 
             loaded into the document's `head` element should be specified here. Typical examples 
