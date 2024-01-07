@@ -264,8 +264,6 @@ components:
             of `<base_href>/polyfea/webcomponent/<microfrontend-name>/<resource-path...>`.
         attributes:
           type: object
-          additionalProperties:
-            type: string
           description: |
             Additional attributes to be assigned to the `link` or `script` element, 
             alongside the `rel` and `href` attributes.
